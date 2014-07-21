@@ -1,0 +1,22 @@
+{
+  "name": "ember-cli-regenerator",
+  "version": "0.0.1",
+  "description": "A facebook regenerator add-on for ember-cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpd106/ember-cli-regenerator"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-cli",
+    "regenerator"
+  ],
+  "author": "Matt Dickens",
+  "license": "Apache v2",
+  "bugs": "https://github.com/mpd106/ember-cli-regenerator/issues",
+  "homepage": "https://github.com/mpd106/ember-cli-regenerator",
+  "dependencies": {
+    "broccoli-regenerator": "~0.3.0"
+  }
+}
