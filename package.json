@@ -17,6 +17,6 @@
   "bugs": "https://github.com/mpd106/ember-cli-regenerator/issues",
   "homepage": "https://github.com/mpd106/ember-cli-regenerator",
   "dependencies": {
-    "broccoli-regenerator": "~0.3.0"
+    "broccoli-regenerator": "git://github.com/mpd106/broccoli-regenerator.git#export-default-support"
   }
 }
